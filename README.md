@@ -5,6 +5,8 @@ Notes and coding exercises from the various lessons in Udacity's Deep Learning N
 
 * Intro to TensorFlow ([Markdown](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Intro%20to%20TensorFlow/intro-to-tensorflow-notes.md)) ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Intro%20to%20TensorFlow/intro-to-tensorflow-notes.ipynb))
 
+* Deep Neural Networks ([Markdown](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Deep%20Neural%20Networks/tf-deep-neural-networks.md)) ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Deep%20Neural%20Networks/tf-deep-neural-networks.ipynb))
+
 ## Exercises
 
 #### 1 - MiniFlow
