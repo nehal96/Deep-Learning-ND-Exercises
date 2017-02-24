@@ -1,4 +1,4 @@
-# Deep-Learning-ND-Exercises
+# Deep Learning Nanodegree Foundation Notes & Exercises
 Notes and coding exercises from the various lessons in Udacity's Deep Learning Nanodegree Foundation
 
 ## Notes
