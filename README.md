@@ -6,29 +6,24 @@ Notes and coding exercises from the various lessons in Udacity's Deep Learning N
 ### 1 - Intro to Neural Networks
 
 * **PROJECT 1 - Bike Sharing Neural Network** ([Repo](https://github.com/nehal96/Bike-Sharing-Neural-Network))
+<br>
 
 ### 2 - Sentiment Analysis
 
 #### Sentiment Analysis with Andrew Trask
 
 * Framing Problems for Neural Networks ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Sentiment%20Analysis/Sentiment%20Analysis%20with%20Andrew%20Trask/1-framing-problems-for-nns.ipynb))
-
 * Creating the Input/Output Data ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Sentiment%20Analysis/Sentiment%20Analysis%20with%20Andrew%20Trask/2-creating-input-output-data.ipynb))
-
 * Building the Neural Network ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Sentiment%20Analysis/Sentiment%20Analysis%20with%20Andrew%20Trask/3-building-the-nn.ipynb))
-
 * Making Learning Faster by Reducing Noise ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Sentiment%20Analysis/Sentiment%20Analysis%20with%20Andrew%20Trask/4-reducing-noise.ipynb))
-
 * Making our Network Train and Run Faster ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Sentiment%20Analysis/Sentiment%20Analysis%20with%20Andrew%20Trask/5-making-network-train-faster.ipynb))
-
 * Reducing Noise by Strategically Reducing Noise ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Sentiment%20Analysis/Sentiment%20Analysis%20with%20Andrew%20Trask/6-reducing-vocabulary-noise.ipynb))
 
 #### Intro to TFLearn
 
 * Sentiment Analysis with TFLearn ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Sentiment%20Analysis/Sentiment%20Analysis%20with%20TFLearn/sentiment-analysis-tflearn.ipynb))
-
 * Handwritten Digit Recognition with TFLearn and MNIST ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Sentiment%20Analysis/Handwritten%20Digit%20Recognition%20with%20TFLearn%20and%20MNIST/handwritten-digit-recognition-with-tflearn.ipynb))
-
+<br>
 
 ### 2 - MiniFlow
 
@@ -38,12 +33,11 @@ Notes and coding exercises from the various lessons in Udacity's Deep Learning N
 * Sigmoid Function ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/tree/master/MiniFlow/4%20-%20Sigmoid%20Function))
 * Cost ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/tree/master/MiniFlow/5%20-%20Cost))
 * Gradient Descent ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/tree/master/MiniFlow/6%20-%20Gradient%20Descent))
-
+<br>
 
 ### 3 - Intro to TensorFlow
 
 * Intro to TensorFlow Notes ([Markdown](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Intro%20to%20TensorFlow/intro-to-tensorflow-notes.md)) ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Intro%20to%20TensorFlow/intro-to-tensorflow-notes.ipynb))
-
 * TensorFlow Neural Network Lab ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Intro%20to%20TensorFlow/tf_neural_network_lab.ipynb))
 
 
