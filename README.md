@@ -1,23 +1,53 @@
 # Deep Learning Nanodegree Foundation Notes & Exercises
 Notes and coding exercises from the various lessons in Udacity's Deep Learning Nanodegree Foundation
 
-## Notes
+## Lessons
 
-* Intro to TensorFlow ([Markdown](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Intro%20to%20TensorFlow/intro-to-tensorflow-notes.md)) ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Intro%20to%20TensorFlow/intro-to-tensorflow-notes.ipynb))
+### 1 - Intro to Neural Networks
 
-* Deep Neural Networks ([Markdown](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Deep%20Neural%20Networks/tf-deep-neural-networks.md)) ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Deep%20Neural%20Networks/tf-deep-neural-networks.ipynb))
+* **PROJECT 1 - Bike Sharing Neural Network** ([Repo](https://github.com/nehal96/Bike-Sharing-Neural-Network))
 
-## Exercises
+### 2 - Sentiment Analysis
 
-#### 1 - MiniFlow
+#### Sentiment Analysis with Andrew Trask
 
-* [Forward Propagation](https://github.com/nehal96/Deep-Learning-ND-Exercises/tree/master/MiniFlow/1%20-%20Forward%20Propagation)
-* [Learning and Loss](https://github.com/nehal96/Deep-Learning-ND-Exercises/tree/master/MiniFlow/2%20-%20Learning%20and%20Loss)
-* [Linear Transform](https://github.com/nehal96/Deep-Learning-ND-Exercises/tree/master/MiniFlow/3%20-%20Linear%20Transform)
-* [Sigmoid Function](https://github.com/nehal96/Deep-Learning-ND-Exercises/tree/master/MiniFlow/4%20-%20Sigmoid%20Function)
-* [Cost](https://github.com/nehal96/Deep-Learning-ND-Exercises/tree/master/MiniFlow/5%20-%20Cost)
-* [Gradient Descent](https://github.com/nehal96/Deep-Learning-ND-Exercises/tree/master/MiniFlow/6%20-%20Gradient%20Descent)
+* Framing Problems for Neural Networks ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Sentiment%20Analysis/Sentiment%20Analysis%20with%20Andrew%20Trask/1-framing-problems-for-nns.ipynb))
 
-#### 2 - Intro to TensorFlow
+* Creating the Input/Output Data ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Sentiment%20Analysis/Sentiment%20Analysis%20with%20Andrew%20Trask/2-creating-input-output-data.ipynb))
+
+* Building the Neural Network ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Sentiment%20Analysis/Sentiment%20Analysis%20with%20Andrew%20Trask/3-building-the-nn.ipynb))
+
+* Making Learning Faster by Reducing Noise ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Sentiment%20Analysis/Sentiment%20Analysis%20with%20Andrew%20Trask/4-reducing-noise.ipynb))
+
+* Making our Network Train and Run Faster ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Sentiment%20Analysis/Sentiment%20Analysis%20with%20Andrew%20Trask/5-making-network-train-faster.ipynb))
+
+* Reducing Noise by Strategically Reducing Noise ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Sentiment%20Analysis/Sentiment%20Analysis%20with%20Andrew%20Trask/6-reducing-vocabulary-noise.ipynb))
+
+#### Intro to TFLearn
+
+* Sentiment Analysis with TFLearn ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Sentiment%20Analysis/Sentiment%20Analysis%20with%20TFLearn/sentiment-analysis-tflearn.ipynb))
+
+* Handwritten Digit Recognition with TFLearn and MNIST ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Sentiment%20Analysis/Handwritten%20Digit%20Recognition%20with%20TFLearn%20and%20MNIST/handwritten-digit-recognition-with-tflearn.ipynb))
+
+
+### 2 - MiniFlow
+
+* Forward Propagation ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/tree/master/MiniFlow/1%20-%20Forward%20Propagation))
+* Learning and Loss ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/tree/master/MiniFlow/2%20-%20Learning%20and%20Loss))
+* Linear Transform ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/tree/master/MiniFlow/3%20-%20Linear%20Transform))
+* Sigmoid Function ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/tree/master/MiniFlow/4%20-%20Sigmoid%20Function))
+* Cost ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/tree/master/MiniFlow/5%20-%20Cost))
+* Gradient Descent ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/tree/master/MiniFlow/6%20-%20Gradient%20Descent))
+
+
+### 3 - Intro to TensorFlow
+
+* Intro to TensorFlow Notes ([Markdown](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Intro%20to%20TensorFlow/intro-to-tensorflow-notes.md)) ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Intro%20to%20TensorFlow/intro-to-tensorflow-notes.ipynb))
 
 * TensorFlow Neural Network Lab ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Intro%20to%20TensorFlow/tf_neural_network_lab.ipynb))
+
+
+### 4 - Deep Neural Networks
+
+* Deep Neural Networks Notes ([Markdown](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Deep%20Neural%20Networks/tf-deep-neural-networks.md)) ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Deep%20Neural%20Networks/tf-deep-neural-networks.ipynb))
+
