@@ -25,7 +25,7 @@ Notes and coding exercises from the various lessons in Udacity's Deep Learning N
 * Handwritten Digit Recognition with TFLearn and MNIST ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Sentiment%20Analysis/Handwritten%20Digit%20Recognition%20with%20TFLearn%20and%20MNIST/handwritten-digit-recognition-with-tflearn.ipynb))
 <br>
 
-### 2 - MiniFlow
+### 3 - MiniFlow
 
 * Forward Propagation ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/tree/master/MiniFlow/1%20-%20Forward%20Propagation))
 * Learning and Loss ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/tree/master/MiniFlow/2%20-%20Learning%20and%20Loss))
@@ -35,13 +35,13 @@ Notes and coding exercises from the various lessons in Udacity's Deep Learning N
 * Gradient Descent ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/tree/master/MiniFlow/6%20-%20Gradient%20Descent))
 <br>
 
-### 3 - Intro to TensorFlow
+### 4 - Intro to TensorFlow
 
 * Intro to TensorFlow Notes ([Markdown](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Intro%20to%20TensorFlow/intro-to-tensorflow-notes.md)) ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Intro%20to%20TensorFlow/intro-to-tensorflow-notes.ipynb))
 * TensorFlow Neural Network Lab ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Intro%20to%20TensorFlow/tf_neural_network_lab.ipynb))
 
 
-### 4 - Deep Neural Networks
+### 5 - Deep Neural Networks
 
 * Deep Neural Networks Notes ([Markdown](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Deep%20Neural%20Networks/tf-deep-neural-networks.md)) ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Deep%20Neural%20Networks/tf-deep-neural-networks.ipynb))
 
