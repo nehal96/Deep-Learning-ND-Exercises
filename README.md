@@ -39,9 +39,13 @@ Notes and coding exercises from the various lessons in Udacity's Deep Learning N
 
 * Intro to TensorFlow Notes ([Markdown](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Intro%20to%20TensorFlow/intro-to-tensorflow-notes.md)) ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Intro%20to%20TensorFlow/intro-to-tensorflow-notes.ipynb))
 * TensorFlow Neural Network Lab ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Intro%20to%20TensorFlow/tf_neural_network_lab.ipynb))
-
+<br>
 
 ### 5 - Deep Neural Networks
 
 * Deep Neural Networks Notes ([Markdown](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Deep%20Neural%20Networks/tf-deep-neural-networks.md)) ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Deep%20Neural%20Networks/tf-deep-neural-networks.ipynb))
+<br>
 
+### 6 - Convolutional Neural Networks
+
+* Convolutional Neural Network Notes ([Markdown](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Convolutional%20Neural%20Networks/convolutional-neural-networks-notes.md)) ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Convolutional%20Neural%20Networks/convolutional-neural-networks-notes.ipynb))
