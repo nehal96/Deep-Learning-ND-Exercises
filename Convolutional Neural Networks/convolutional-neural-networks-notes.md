@@ -84,7 +84,7 @@ The amount by which the filter slides is referred to as the **'stride'**. The st
 
 Let’s look at an example. In this zoomed in image of the dog, we first start with the patch outlined in red. The width and height of our filter define the size of this square.
 
-![](https://d17h27t6h515a5.cloudfront.net/topher/2016/December/5840fdac_retriever-patch/retriever-patch.png)
+<img src="https://d17h27t6h515a5.cloudfront.net/topher/2016/December/5840fdac_retriever-patch/retriever-patch.png" width=500 height=500>
 
 We then move the square over to the right by a given stride (2 in this case) to get another patch.
 
@@ -130,7 +130,7 @@ Remember that the CNN isn't "programmed" to look for certain characteristics. Ra
 
 ### Parameter Sharing
 
-<img src="https://d17h27t6h515a5.cloudfront.net/topher/2016/November/58377f77_vlcsnap-2016-11-24-16h01m35s262/vlcsnap-2016-11-24-16h01m35s262.png" width=800 height=800>
+<img src="https://d17h27t6h515a5.cloudfront.net/topher/2016/November/58377f77_vlcsnap-2016-11-24-16h01m35s262/vlcsnap-2016-11-24-16h01m35s262.png" width=600 height=400>
 <center>The weights, w, are shared across patches for a given layer in a CNN to detect the cat above regardless of where in the image it is located.</center>
 
 When we are trying to classify a picture of a cat, we don’t care where in the image a cat is. If it’s in the top left or the bottom right, it’s still a cat in our eyes. We would like our CNNs to also possess this ability known as translation invariance. How can we achieve this?
