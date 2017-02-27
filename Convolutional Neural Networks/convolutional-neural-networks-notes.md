@@ -75,7 +75,7 @@ The first step for a CNN is to break up the image into smaller pieces. We do thi
 
 The filter looks at small pieces, or patches, of the image. These patches are the same size as the filter. 
 
-<img src="https://d17h27t6h515a5.cloudfront.net/topher/2016/November/58377d67_vlcsnap-2016-11-24-15h52m47s438/vlcsnap-2016-11-24-15h52m47s438.png" width=800 height=800>
+<img src="https://d17h27t6h515a5.cloudfront.net/topher/2016/November/58377d67_vlcsnap-2016-11-24-15h52m47s438/vlcsnap-2016-11-24-15h52m47s438.png" width=600 height=400>
 <center>A CNN uses filters to split an image into smaller patches. The size of these patches matches the filter size.</center>
 
 We then simply slide this filter horizontally or vertically to focus on a different piece of the image.
