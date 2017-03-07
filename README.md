@@ -49,3 +49,5 @@ Notes and coding exercises from the various lessons in Udacity's Deep Learning N
 ### 6 - Convolutional Neural Networks
 
 * Convolutional Neural Network Notes ([Markdown](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Convolutional%20Neural%20Networks/convolutional-neural-networks-notes.md)) ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Convolutional%20Neural%20Networks/convolutional-neural-networks-notes.ipynb))
+
+* **PROJECT 2: Image Classification Convolutional Neural Network** ([Repo](https://github.com/nehal96/Image-Classification-CovNet))
