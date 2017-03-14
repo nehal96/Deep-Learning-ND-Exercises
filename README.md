@@ -51,3 +51,10 @@ Notes and coding exercises from the various lessons in Udacity's Deep Learning N
 * Convolutional Neural Network Notes ([Markdown](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Convolutional%20Neural%20Networks/convolutional-neural-networks-notes.md)) ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Convolutional%20Neural%20Networks/convolutional-neural-networks-notes.ipynb))
 
 * **PROJECT 2: Image Classification Convolutional Neural Network** ([Repo](https://github.com/nehal96/Image-Classification-CovNet))
+<br>
+
+### 7 - Recurrent Neural Networks
+
+* [Lecture on RNNs and LSTM by Andrej Karpathy](https://www.youtube.com/watch?v=iX5V1WpxxkY) (CS231n - Stanford)
+* [Understanding LTSM Networks by Christopher Olah](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+* [RNNs in TensorFlow](http://r2rt.com/recurrent-neural-networks-in-tensorflow-i.html)
