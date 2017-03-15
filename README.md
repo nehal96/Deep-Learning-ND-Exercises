@@ -56,5 +56,6 @@ Notes and coding exercises from the various lessons in Udacity's Deep Learning N
 ### 7 - Recurrent Neural Networks
 
 * [Lecture on RNNs and LSTM by Andrej Karpathy](https://www.youtube.com/watch?v=iX5V1WpxxkY) (CS231n - Stanford)
-* [Understanding LTSM Networks by Christopher Olah](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-* [RNNs in TensorFlow](http://r2rt.com/recurrent-neural-networks-in-tensorflow-i.html)
+* [Understanding LTSM Networks by Christopher Olah](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) (Blog)
+* [The Unreasonable Effectiveness of Recurrent Neural Networks by Andrej Karpathy](https://karpathy.github.io/2015/05/21/rnn-effectiveness/) (Blog)
+* [RNNs in TensorFlow](http://r2rt.com/recurrent-neural-networks-in-tensorflow-i.html) (Blog)
