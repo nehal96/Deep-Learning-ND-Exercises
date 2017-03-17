@@ -58,4 +58,7 @@ Notes and coding exercises from the various lessons in Udacity's Deep Learning N
 * [Lecture on RNNs and LSTM by Andrej Karpathy](https://www.youtube.com/watch?v=iX5V1WpxxkY) (CS231n - Stanford)
 * [Understanding LTSM Networks by Christopher Olah](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) (Blog)
 * [The Unreasonable Effectiveness of Recurrent Neural Networks by Andrej Karpathy](https://karpathy.github.io/2015/05/21/rnn-effectiveness/) (Blog)
+* [A Beginner's Guide to Recurrent Networks and LSTMs](https://deeplearning4j.org/lstm.html) (Blog)
+* [Recurrent Neural Networks in TensorFlow](https://www.tensorflow.org/tutorials/recurrent) (Tutorial)
 * [RNNs in TensorFlow](http://r2rt.com/recurrent-neural-networks-in-tensorflow-i.html) (Blog)
+* Recurrent Neural Network Exercise (Anna Karenina Text Generation) ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Recurrent%20Neural%20Networks/Anna%20KaRNNa.ipynb))
