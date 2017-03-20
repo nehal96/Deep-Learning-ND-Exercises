@@ -71,3 +71,4 @@ Notes and coding exercises from the various lessons in Udacity's Deep Learning N
 * [Distributed Representations of Words and Phrases and their Compositionality by Mikolov et al.](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) (Paper) [PDF] - (*improvements to orignial paper*)
 * [Word2Vec: NLP with Deep Learning with TensorFlow by Thushan Ganegedara](http://www.thushv.com/natural_language_processing/word2vec-part-1-nlp-with-deep-learning-with-tensorflow-skip-gram/) (Blog)
 * [TensorFlow Word2Vec Tutorial](https://www.tensorflow.org/tutorials/word2vec) (Tutorial)
+* Embeddings and Word2Vec (Skip-Gram) Exercise ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Embeddings%20and%20Word2Vec/Skip-Gram%20word2vec.ipynb))
