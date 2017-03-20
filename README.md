@@ -62,3 +62,12 @@ Notes and coding exercises from the various lessons in Udacity's Deep Learning N
 * [Recurrent Neural Networks in TensorFlow](https://www.tensorflow.org/tutorials/recurrent) (Tutorial)
 * [RNNs in TensorFlow](http://r2rt.com/recurrent-neural-networks-in-tensorflow-i.html) (Blog)
 * Recurrent Neural Network Exercise (Anna Karenina Text Generation) ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Recurrent%20Neural%20Networks/Anna%20KaRNNa.ipynb))
+<br>
+
+### 8 - Embeddings and Word2Vec
+
+* [Word2Vec Overview: The Skip-Gram Model by Chris McCormick](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/) (Blog)
+* [Efficient Estimation of Word Respresentations in Vector Space by Mikolov et al.](https://arxiv.org/pdf/1301.3781.pdf) (Paper) [PDF] - (*original Word2Vec Paper*)
+* [Distributed Representations of Words and Phrases and their Compositionality by Mikolov et al.](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) (Paper) [PDF] - (*improvements to orignial paper*)
+* [Word2Vec: NLP with Deep Learning with TensorFlow by Thushan Ganegedara](http://www.thushv.com/natural_language_processing/word2vec-part-1-nlp-with-deep-learning-with-tensorflow-skip-gram/) (Blog)
+* [TensorFlow Word2Vec Tutorial](https://www.tensorflow.org/tutorials/word2vec) (Tutorial)
