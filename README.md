@@ -72,3 +72,13 @@ Notes and coding exercises from the various lessons in Udacity's Deep Learning N
 * [Word2Vec: NLP with Deep Learning with TensorFlow by Thushan Ganegedara](http://www.thushv.com/natural_language_processing/word2vec-part-1-nlp-with-deep-learning-with-tensorflow-skip-gram/) (Blog)
 * [TensorFlow Word2Vec Tutorial](https://www.tensorflow.org/tutorials/word2vec) (Tutorial)
 * Embeddings and Word2Vec (Skip-Gram) Exercise ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Embeddings%20and%20Word2Vec/Skip-Gram%20word2vec.ipynb))
+<br>
+
+### 9 - TensorBoard
+
+* [Hands-on TensorBoard Tutorial](https://www.youtube.com/watch?v=eBbEDRsCmv4&feature=youtu.be) (TensorFlow Dev Summit 2017)
+* [TensorBoard: Visualizing Learning](https://www.tensorflow.org/get_started/summaries_and_tensorboard) (Tutorial)
+* Viewing Graphs ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/TensorBoard/Anna%20KaRNNa.ipynb))
+* Name Scopes ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/TensorBoard/Anna%20KaRNNa%20Name%20Scoped.ipynb))
+* Inspecting Variables - TF Summaries ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/TensorBoard/Anna%20KaRNNa%20Summaries.ipynb))
+* Choosing Hyperparameters ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/TensorBoard/Anna%20KaRNNa%20Hyperparameters.ipynb))
