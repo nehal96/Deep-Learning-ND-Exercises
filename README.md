@@ -56,6 +56,7 @@ Notes and coding exercises from the various lessons in Udacity's Deep Learning N
 ### 7 - Recurrent Neural Networks
 
 * Recurrent Neural Network Exercise (Anna Karenina Text Generation) ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Recurrent%20Neural%20Networks/Anna%20KaRNNa.ipynb))
+* Sentiment Analysis Recurrent Neural Network ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Recurrent%20Neural%20Networks/Sentiemnt-RNN/Sentiment%20RNN.ipynb))
 
 #### Resources
 * [Lecture on RNNs and LSTM by Andrej Karpathy](https://www.youtube.com/watch?v=iX5V1WpxxkY) (CS231n - Stanford)
