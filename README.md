@@ -5,7 +5,7 @@ Notes and coding exercises from the various lessons in Udacity's Deep Learning N
 
 ### 1 - Intro to Neural Networks
 
-* **PROJECT 1 - Bike Sharing Neural Network** ([Repo](https://github.com/nehal96/Bike-Sharing-Neural-Network))
+* **PROJECT 1: Bike Sharing Neural Network** ([Repo](https://github.com/nehal96/Bike-Sharing-Neural-Network))
 <br>
 
 ### 2 - Sentiment Analysis
@@ -57,6 +57,8 @@ Notes and coding exercises from the various lessons in Udacity's Deep Learning N
 
 * Recurrent Neural Network Exercise (Anna Karenina Text Generation) ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Recurrent%20Neural%20Networks/Anna%20KaRNNa.ipynb))
 * Sentiment Analysis Recurrent Neural Network ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Recurrent%20Neural%20Networks/Sentiemnt-RNN/Sentiment%20RNN.ipynb))
+
+* **PROJECT 3: Simpsons Script Generation with Recurrent Neural Networks** ([Repo](https://github.com/nehal96/Simpsons-Script-Generation))
 
 #### Resources
 * [Lecture on RNNs and LSTM by Andrej Karpathy](https://www.youtube.com/watch?v=iX5V1WpxxkY) (CS231n - Stanford)
