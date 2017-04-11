@@ -101,3 +101,7 @@ Notes and coding exercises from the various lessons in Udacity's Deep Learning N
 * [Understanding the Difficulty of Training Deep Feedforward Neural Networks by Bengio et al.](http://jmlr.org/proceedings/papers/v9/glorot10a/glorot10a.pdf) (Paper) [PDF]
 * [Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification by Microsoft Research](https://arxiv.org/pdf/1502.01852v1.pdf) (Paper) [PDF]
 * [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift by Google Research](https://arxiv.org/pdf/1502.03167v2.pdf) (Paper) [PDF]
+
+### 11 - Transfer Learning
+
+* Transfer Learning with VGGNet ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Transfer-Learning/Transfer_Learning.ipynb))
