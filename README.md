@@ -111,6 +111,8 @@ Notes and coding exercises from the various lessons in Udacity's Deep Learning N
 ### 12 - Sequence to Sequence RNN
 
 * Character Sequence to Sequence ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Sequence-to-Sequence/sequence_to_sequence_implementation.ipynb))
+
+* **PROJECT 4: English to French Translation with Sequence to Sequence RNN** ([Repo](https://github.com/nehal96/Seq2Seq-Language-Translation))
 <br>
 
 ### 13 - Reinforcement Learning
