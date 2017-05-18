@@ -118,3 +118,13 @@ Notes and coding exercises from the various lessons in Udacity's Deep Learning N
 ### 13 - Reinforcement Learning
 
 * Playing Cart-Pole using Q-Learning ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Reinforcement-Learning/Q-learning-cart.ipynb))
+<br>
+
+### 14 - Generative Adversarial Networks
+
+#### Intro to GANs
+* Generating Handwritten Digits with GANs ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Generative-Adversarial-Networks/Intro_to_GANs_Exercises.ipynb))
+
+#### Deep Convolutional GANs
+* Batch Normalization Lesson ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Batch-Normalization/Batch_Normalization_Lesson.ipynb))
+* Batch Normalization Exercise ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Batch-Normalization/Batch_Normalization_Exercises.ipynb))
