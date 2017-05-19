@@ -120,7 +120,13 @@ Notes and coding exercises from the various lessons in Udacity's Deep Learning N
 * Playing Cart-Pole using Q-Learning ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Reinforcement-Learning/Q-learning-cart.ipynb))
 <br>
 
-### 14 - Generative Adversarial Networks
+### 14 - Autoencoders
+
+* Simple Autoencoder on MNIST ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Autoencoders/Simple_Autoencoder.ipynb))
+* Conventional Autoencoder on MNIST ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Autoencoders/Convolutional_Autoencoder.ipynb))
+<br>
+
+### 15 - Generative Adversarial Networks
 
 #### Intro to GANs
 * Generating Handwritten Digits with GANs ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Generative-Adversarial-Networks/Intro_to_GANs_Exercises.ipynb))
