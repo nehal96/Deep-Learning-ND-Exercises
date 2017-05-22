@@ -1,5 +1,15 @@
 # Deep Learning Nanodegree Foundation Notes & Exercises
-Notes and coding exercises from the various lessons in Udacity's Deep Learning Nanodegree Foundation
+Notes, coding exercises and projects from Udacity's Deep Learning Nanodegree Foundation program.
+<br>
+
+## Projects
+
+#### **PROJECT 1: Bike Sharing Neural Network** ([Repo](https://github.com/nehal96/Bike-Sharing-Neural-Network))
+#### **PROJECT 2: Image Classification Convolutional Neural Network** ([Repo](https://github.com/nehal96/Image-Classification-CovNet))
+#### **PROJECT 3: Simpsons Script Generation with Recurrent Neural Networks** ([Repo](https://github.com/nehal96/Simpsons-Script-Generation))
+#### **PROJECT 4: English to French Translation with Sequence to Sequence RNN** ([Repo](https://github.com/nehal96/Seq2Seq-Language-Translation))
+#### **PROJECT 5: Face Generation DCGAN** ([Repo](https://github.com/nehal96/Face-Generation-DCGAN))
+<br>
 
 ## Lessons
 
@@ -135,3 +145,4 @@ Notes and coding exercises from the various lessons in Udacity's Deep Learning N
 * Batch Normalization Lesson ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Batch-Normalization/Batch_Normalization_Lesson.ipynb))
 * Batch Normalization Exercise ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/Batch-Normalization/Batch_Normalization_Exercises.ipynb))
 * Deep Convolutional GAN on Street View House Numbers (SVHN) Dataset ([Notebook](https://github.com/nehal96/Deep-Learning-ND-Exercises/blob/master/DCGAN/DCGAN.ipynb))
+* **PROJECT 5: Face Generation DCGAN** ([Repo](https://github.com/nehal96/Face-Generation-DCGAN))
